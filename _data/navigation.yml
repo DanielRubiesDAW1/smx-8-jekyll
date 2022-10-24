@@ -1,5 +1,6 @@
-- name: Home
+- name: Inicio
   link: /
 
-- name: Biodiversity
-  link: /biodiversity
+- name: Heroes
+  link: /heroes
+s
